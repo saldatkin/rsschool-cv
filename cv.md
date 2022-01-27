@@ -2,16 +2,18 @@
 
 # Aliaksei Saldatkin
 ## Contacts:
-* ___Telegram:___ @saldatkin
-* ___Phone number___: +370 690 67719
 * ___email___: aliaksei.saldatkin@gmail.com
 * ___discord___: saldatkin
+* ___Phone number___: +370 690 67719
+* ___Telegram:___ @saldatkin
 ## About me:
 Beginning Frontend Developer. <br>
 Interested in learning something new and creating useful product.
 Last 4 years I am working with geographic information systems, such as ArcGIS, QGIS, openstreetmap.org, on maps editing and validation. 
 ## Skills
-- programming languages, frameworks...
+- basic knowledge of HTML, CSS and Javascript
+- Java Core
+- Java Fundamentals
 ## Code examples
 ## Experience (education projects)
 ## Education
